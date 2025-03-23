@@ -1,2 +1,2 @@
-# git_learn
+# git-learn
 learn how to use git
